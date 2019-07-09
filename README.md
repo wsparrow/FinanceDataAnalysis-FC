@@ -8,5 +8,5 @@ Finance data collection and analysis with automation CAMP 17th
 4. Naver Stock
 
 ## WEEK 03(19.07.07)
-1-1. [Price and Transaction volume](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-1.ipynb)
-1-2. [Moving Average & Signal]
+1.1) [Price and Transaction volume](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-1.ipynb)
+  2) [Moving Average & Signal](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-2.ipynb)
