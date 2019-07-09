@@ -1,4 +1,4 @@
-# FinanceDataAnalysis-FC
+# FinanceDataAnalysis-FC-Study
 Finance data collection and analysis with automation CAMP 17th
 
 ## [WEEK 01(19.06.23)](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/0_WEEK01.ipynb)
