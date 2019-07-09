@@ -7,6 +7,6 @@ Finance data collection and analysis with automation CAMP 17th
 3. Google Search Counter
 4. Naver Stock
 
-## WEEK 03(19.07.07
-1-1. [Price and Transaction volume]
-1-2. 
+## WEEK 03(19.07.07)
+1-1. [Price and Transaction volume](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-1.ipynb)
+1-2.
