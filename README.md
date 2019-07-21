@@ -11,5 +11,5 @@ Finance data collection and analysis with automation CAMP 17th
 1. [Price and Transaction volume](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-1.ipynb)
 2. [Moving Average & Signal](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/1_WEEK03-2.ipynb)
 
-## PROJECT - team2(https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/2_Project_team2_FC.ipynb)
+## [PROJECT - team2](https://github.com/wsparrow/FinanceDataAnalysis-FC/blob/master/2_Project_team2_FC.ipynb)
 The Effects of Dart Disclosure on Stock Price
